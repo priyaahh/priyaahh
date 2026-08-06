@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Room1.png" width="720" height="433" alt="Cozy Workspace Banner">
+  <img src="./Room.jpeg" width="720" height="433" alt="Cozy Workspace Banner">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-### Heyyyy! I'm Priya🎀
+### Hiiii, I'm Priya🎀
 
 <table>
   <tr>
@@ -48,7 +48,9 @@
 ### 💻 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,postman,vscode,figma,tailwind,pandas,numpy,sklearn,streamlit,elasticsearch,langchain&perline=12" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow&perline=12" alt="Tech Stack Icons Line 1" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,vscode,figma,tailwind,pandas,numpy,sklearn,streamlit,elasticsearch,langchain" alt="Tech Stack Icons Line 2" />
 </p>
 
 ### 🤝 Let's Connect
