@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./blue keyboard wallpaper background.jpg" alt="Banner" width="100%">
+  <img src="./blue keyboard wallpaper background.jpg" alt="Banner" height="200">
 </p>
 
 <p align="center">
