@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Room1.png" width="720" height="433" alt="Cozy Workspace Banner">
+  <img src="./Room.jpeg" width="720" height="433" alt="Cozy Workspace Banner">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" align="left" valign="top">
       <b>Final Year B.Tech AI & Data Science Student @ REVA University (2023–2027)</b>
       <br><br>
 
@@ -32,8 +32,8 @@
       🎨 Outside coding, I love painting, sketching, reading books, and rewatching my favorite 2000s movies.
     </td>
 
-    <td width="40%" align="center">
-      <img src="./Room2.jpeg" width="100%" style="max-width:250px;">
+    <td width="40%" align="center" valign="middle">
+      <img src="./Room2.jpeg" width="100%" style="max-width:250px; border-radius: 8px;">
     </td>
   </tr>
 </table>
@@ -49,11 +49,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,postman,vscode,figma" alt="Core Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,pandas,numpy,sklearn,streamlit,elasticsearch,langchain" alt="Data & Styling Stack" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,postman,vscode,figma,tailwind,bootstrap,pandas,numpy,sklearn,streamlit,elasticsearch,langchain&perline=9" alt="Tech Stack Icons" />
 </p>
 
 ### 🤝 Let's Connect
