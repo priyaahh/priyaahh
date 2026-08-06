@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Girl_BG.jpg" alt="Banner" height="200">
+  <img src="./Girl_BG.jpg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
