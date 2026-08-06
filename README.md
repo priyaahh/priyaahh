@@ -1,7 +1,5 @@
 <p align="center">
-  <video src="./Room1.mp4" width="640" height="360" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
+  <img src="./Room1.png" width="720" height="433" alt="Cozy Workspace Banner">
 </p>
 
 <p align="center">
@@ -31,11 +29,11 @@
       🏆 I enjoy participating in hackathons, collaborating on interdisciplinary projects, and continuously learning.
       <br><br>
 
-      🎨 Outside coding, I love painting, sketching,reading books, and rewatching my favorite 2000s movies.
+      🎨 Outside coding, I love painting, sketching, reading books, and rewatching my favorite 2000s movies.
     </td>
 
     <td width="40%" align="center">
-      <img src="./Room2.jpg" width="100%" style="max-width:250px;">
+      <img src="./Room2.jpeg" width="100%" style="max-width:250px;">
     </td>
   </tr>
 </table>
@@ -51,13 +49,13 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,git,github,docker,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,postman,vscode,figma" alt="Core Tech Stack" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,pandas,numpy,sklearn,streamlit,elasticsearch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,pandas,numpy,sklearn,streamlit,elasticsearch,langchain" alt="Data & Styling Stack" />
 </p>
 
 ### 🤝 Let's Connect
 
-Open to collaborating on AI, Software Engineering, Backend Development, Data Engineering, hackathons, open source, and innovative real-world projects tbh that's a lottt .
+Open to collaborating on AI, Software Engineering, Backend Development, Data Engineering, hackathons, open source, and innovative real-world projects!
