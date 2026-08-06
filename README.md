@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./blue keyboard wallpaper background.jpg" alt="Banner" height="200">
+  <img src="./Girl_BG.jpg" alt="Banner" height="200">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
       ⚡ In my free time, I sharpen my problem-solving skills in DSA & C++, participate in hackathons, and optimize system performance.
     </td>
     <td width="40%" align="center">
-      <img src="YOUR_SIDE_IMAGE_OR_LOGO_URL" alt="Ocean Tech Graphic" width="80%">
+      <img src="Universe" width="80%">
     </td>
   </tr>
 </table>
