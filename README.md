@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Girl_BG.jpg" alt="Banner" width="850">
+  <img src="./Socute.jpg" alt="Banner" width="850">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
       ⚡ In my free time, I sharpen my problem-solving skills in DSA & C++, participate in hackathons, and optimize system performance.
     </td>
     <td width="40%" align="center">
-      <img src="Universe.jpg" width="80%">
+      <img src="Sqrt.jpg" width="80%">
     </td>
   </tr>
 </table>
