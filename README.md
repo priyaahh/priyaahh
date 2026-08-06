@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/14707136278141396/" alt="Banner" width="100%">
+  <img src="./blue keyboard wallpaper background.jpg" alt="Banner" width="100%">
 </p>
 
 <p align="center">
