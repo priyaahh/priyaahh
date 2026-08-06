@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Room.jpeg" width="720" height="433" alt="Cozy Workspace Banner">
+  <img src="./Room1.png" width="720" height="433" alt="Cozy Workspace Banner">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-### Hey there! I'm Priya 👋
+### Heyyyy! I'm Priya🎀
 
 <table>
   <tr>
@@ -31,7 +31,6 @@
 
       🎨 Outside coding, I love painting, sketching, reading books, and rewatching my favorite 2000s movies.
     </td>
-
     <td width="40%" align="center" valign="middle">
       <img src="./Room2.jpeg" width="100%" style="max-width:250px; border-radius: 8px;">
     </td>
@@ -46,10 +45,10 @@
 
 * **DigiShield** — Real-time AI content moderation engine built with Hugging Face Transformers, Flask, and MongoDB to detect toxic/unsafe content.
 
-### 💻 Tech Stack
+### 💻 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,postman,vscode,figma,tailwind,bootstrap,pandas,numpy,sklearn,streamlit,elasticsearch,langchain&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,postman,vscode,figma,tailwind,pandas,numpy,sklearn,streamlit,elasticsearch,langchain&perline=12" alt="Tech Stack Icons" />
 </p>
 
 ### 🤝 Let's Connect
