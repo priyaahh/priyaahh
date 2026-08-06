@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Socute.jpg" alt="Banner" width="850">
+  <img src="Socute.jpg" alt="Banner" width="850">
 </p>
 
 <p align="center">
